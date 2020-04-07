@@ -1,4 +1,4 @@
-# ftp-action
+# ftp-action w/ delete
 
 Automate copying your files via ftp using this GitHub action.
 This action deletes all items in the remote folder if they dont exist locally
